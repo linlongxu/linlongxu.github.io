@@ -3,10 +3,10 @@ main:
     url: /
 
   - title: "Publications"
-    url: /publications/
+    url: /https://linlongxu.github.io/publications/
 
   - title: "Talks"
-    url: /talks/
+    url: /https://linlongxu.github.io/talks/
 
   - title: "Contact"
     url: /contact/
